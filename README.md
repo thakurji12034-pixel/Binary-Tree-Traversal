@@ -7,7 +7,7 @@
 **Trees – Data Structures (ADSA)**
 
 ## Author
-**Your Name Here**
+**VANDANA TANWAR**
 
 ## Project Description
 This project demonstrates the fundamental tree traversal techniques used in Binary Search Trees (BSTs).  
